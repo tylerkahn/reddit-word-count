@@ -1,0 +1,3 @@
+[submodule "libreddit"]
+	path = libreddit
+	url = git@github.com:tkahn6/libreddit.git
